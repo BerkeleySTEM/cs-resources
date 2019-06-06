@@ -25,6 +25,10 @@ Your choice will be subject to these constraints:
 
 If you're concerned about workload, start doing the courses before the semester starts, if possible. Many courses have resources online.
 
+#### But how many units should I take?
+
+The number of units you take doesn't matter as long as you have at least the minimum. Be concerned about workload, not units.
+
 ## Resources
 - [List of publicly available resources for CS courses.](https://github.com/surajrampure/berkeley-cs-courses)
 - [Stat 140](http://prob140.org/) and [textbook](http://prob140.org/textbook/chapters/README).
