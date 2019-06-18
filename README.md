@@ -29,6 +29,12 @@ If you're concerned about workload, start doing the courses before the semester 
 
 The number of units you take doesn't matter as long as you have at least the minimum. Be concerned about workload, not units.
 
+## Administrative
+
+### In L&S, want to add a CoE major or transfer to CoE.
+
+See [this reddit comment](https://old.reddit.com/r/berkeley/comments/c24jh2/double_degree_coe_ls/erhpjp3/).
+
 ## Resources
 - [List of publicly available resources for CS courses.](https://github.com/surajrampure/berkeley-cs-courses)
 - [Stat 140](http://prob140.org/) and [textbook](http://prob140.org/textbook/chapters/README).
