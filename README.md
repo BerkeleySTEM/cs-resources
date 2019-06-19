@@ -29,6 +29,13 @@ If you're concerned about workload, start doing the courses before the semester 
 
 The number of units you take doesn't matter as long as you have at least the minimum. Be concerned about workload, not units.
 
+### I want a PhD in Computer Science
+
+No, you probably don't. But read these:
+
+- [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+- [The PhD Grind: A PhD Student Memoir](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
+
 ## Administrative
 
 ### In L&S, want to add a CoE major or transfer to CoE.
