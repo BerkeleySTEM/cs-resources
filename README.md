@@ -45,7 +45,7 @@ See [this reddit comment](https://old.reddit.com/r/berkeley/comments/c24jh2/doub
 ## Resources
 - [List of publicly available resources for CS courses.](https://github.com/surajrampure/berkeley-cs-courses)
 
-### Math
-#### Linear Algebra
-- [3blue1brown video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Garett Thomas's summary PDF](http://gwthomas.github.io/docs/math4ml.pdf), pages 6-26
+### Math for CS people
+- [3blue1brown's linear algebra video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Garett Thomas's math summary](http://gwthomas.github.io/docs/math4ml.pdf), 47 pages
+- [Gallier & Quaintance](http://www.cis.upenn.edu/~jean/math-deep.pdf), a more extensive resource, 1951 pages
