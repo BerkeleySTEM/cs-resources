@@ -50,3 +50,4 @@ See [this reddit comment](https://old.reddit.com/r/berkeley/comments/c24jh2/doub
 - [Garett Thomas's math summary](http://gwthomas.github.io/docs/math4ml.pdf), 47 pages
 - [Gallier & Quaintance](http://www.cis.upenn.edu/~jean/math-deep.pdf), a more extensive resource, 1951 pages
 - [Walrand's notes on Probability](https://people.eecs.berkeley.edu/~wlr/126notes.pdf), 293 pages
+- [Wan's guide to Probability](http://alvinwan.com/publications/abcPTRP.pdf), 61 pages, includes problems and solutions
