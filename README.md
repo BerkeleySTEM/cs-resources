@@ -1,5 +1,5 @@
 # berkeley-advising
-A community-wiki FAQ for Berkeley
+A community-wiki FAQ for CS at Berkeley.
 
 ## Advise
 
