@@ -34,7 +34,7 @@ The number of units you take doesn't matter as long as you have at least the min
 No, you probably don't. But read these:
 
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
-- [The PhD Grind: A PhD Student Memoir](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
+- [The PhD Grind: A PhD Student Memoir](https://zr9558.files.wordpress.com/2013/10/pguo-phd-grind.pdf)
 
 ## Administrative
 
