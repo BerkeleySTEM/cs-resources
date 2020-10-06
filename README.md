@@ -13,7 +13,7 @@ First, determine what classes you need to graduate. Consider what, if any, can b
 
 Your choice will be subject to these constraints:
 
-- **Limited number of seats in a class.** You will get more enrollment priority with more semesters taken at Cal.
+- **Limited number of seats in a class.** You will get more enrollment priority with more semesters taken at Cal. To know if a class is likely to fill up, see [historical enrollment data on BerkeleyTime](https://berkeleytime.com/enrollment). This is also how you tell whether you need to phase 1 a class.
 - **Maximum units in a semester.** You get 20.5 units in a semester unless you get it raised by an L&S advisor (if you're undeclared L&S) or by the CS department (see the bottom of [this page](https://eecs.berkeley.edu/resources/undergrads/cs/major-declaration-appeal)).
 - **Minimum units in a semester.** You need to have at least 13 units in L&S or 12 units in CoE. There are exceptions if you're working or in DSP. You can safely late drop below 13 units, but you can only do that once. If you don't have at least 12 units, bad things can happen with FA and other stuff.
 - **Scheduling.** Some course combinations will be impossible based on a given semester's schedule if they have mandatory sections that overlap (confirm that it's really mandatory). Some course combinations will be uncomfortable (early morning, schedule-gaps, overlap with meal times), but this should only be a secondary concern. It's inadvisable to base your class selection on making schedule planner look nice.
@@ -45,8 +45,11 @@ See [this reddit comment](https://old.reddit.com/r/berkeley/comments/c24jh2/doub
 ## Resources
 - [List of publicly available resources for CS courses.](https://github.com/surajrampure/berkeley-cs-courses)
 
-### Math for CS people
+### Videos
 - [3blue1brown's linear algebra video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Dynamic Programming (MIT)](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78)
+
+### Math for CS people
 - [Garett Thomas's math summary](http://gwthomas.github.io/docs/math4ml.pdf), 47 pages
 - [Gallier & Quaintance](http://www.cis.upenn.edu/~jean/math-deep.pdf), a more extensive resource, 1951 pages
 - [Walrand's notes on Probability](https://people.eecs.berkeley.edu/~wlr/126notes.pdf), 293 pages
