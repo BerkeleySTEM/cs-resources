@@ -51,6 +51,7 @@ See [this reddit comment](https://old.reddit.com/r/berkeley/comments/c24jh2/doub
 
 ### Math for CS people
 - [Druv Pai's notes](https://druvpai.github.io/notes.html).
+- [Axler Linear Algebra Done Right](https://linear.axler.net/) includes summary videos.
 - [Garett Thomas's math summary](http://gwthomas.github.io/docs/math4ml.pdf), 47 pages
 - [Gallier & Quaintance](http://www.cis.upenn.edu/~jean/math-deep.pdf), a more extensive resource, 1951 pages
 - [Walrand's notes on Probability](https://people.eecs.berkeley.edu/~wlr/126notes.pdf), 293 pages
