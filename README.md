@@ -57,6 +57,7 @@ See [this reddit comment](https://old.reddit.com/r/berkeley/comments/c24jh2/doub
 - [Walrand's notes on Probability](https://people.eecs.berkeley.edu/~wlr/126notes.pdf), 293 pages
 - [Wan's guide to Probability](http://alvinwan.com/publications/abcPTRP.pdf), 61 pages, includes problems and solutions
 - [Zitkovic](https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html), lecture notes on Probability & Statistics
+- [Joseph Pagadora's notes for the Math 202 series](https://github.com/jcpagadora/Math-202-Berkeley)
 
 ### CS stuff
 - [Laaksonen](https://cses.fi/book/book.pdf)
